@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[8429],{229:e=>{e.exports=JSON.parse('{"title":"Renderer","slug":"/category/renderer","permalink":"/docs/category/renderer","navigation":{"previous":{"title":"Layout","permalink":"/docs/designer/layout"},"next":{"title":"Introduction","permalink":"/docs/renderer/introduction"}}}')}}]);
