@@ -8,6 +8,7 @@ const data = {
   "total": 1180,
   "items": [
     {
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mP8z8BQz0AEYBxVSF+FABJADveWkH6oAAAAAElFTkSuQmCC",
       "no": 1,
       "item": "Item1",
       "amount": 1,
@@ -20,6 +21,7 @@ const data = {
       ]
     },
     {
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FAAhKDveksOjmAAAAAElFTkSuQmCC",
       "no": 2,
       "item": "Item2",
       "amount": 2,
@@ -32,6 +34,7 @@ const data = {
       ]
     },
     {
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNkYPhfz0AEYBxVSF+FAP5FDvcfRYWgAAAAAElFTkSuQmCC",
       "no": 3,
       "item": "Item3",
       "amount": 3,
