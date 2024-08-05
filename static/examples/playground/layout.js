@@ -264,6 +264,16 @@ const layout = {
         "text": "Total",
         "binding": "",
         "fontWeight": "bold"
+      },
+      {
+        "x": 463,
+        "y": 25,
+        "width": 27,
+        "height": 24,
+        "name": "",
+        "type": "image",
+        "source": "",
+        "binding": "logo"
       }
     ],
     "sections": [
