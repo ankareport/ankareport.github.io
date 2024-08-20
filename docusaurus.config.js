@@ -58,7 +58,7 @@ const config = {
         title: "Anka Report",
         logo: {
           alt: "Anka Report Logo",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           {
