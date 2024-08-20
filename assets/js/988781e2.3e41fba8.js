@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9493],{6800:t=>{t.exports=JSON.parse('{"title":"API","slug":"/category/api","permalink":"/docs/category/api","navigation":{"previous":{"title":"Exports","permalink":"/docs/third-party/exports"},"next":{"title":"Anka Report","permalink":"/docs/api/introduction"}}}')}}]);
